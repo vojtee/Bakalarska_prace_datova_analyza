@@ -1,0 +1,12 @@
+
+—python:S1192…"QDefine a constant instead of duplicating this literal "SpojnicovÃ½ graf" 4 times.(ÌÏãÌ8Ñïõúğ1J$c7bc2d8e-4ce4-43ae-88a6-1c213daf6066
+mpython:S1192‡"MDefine a constant instead of duplicating this literal "BodovÃ½ graf" 3 times.(ˆş’º8šı÷úğ1
+›python:S1192†"PDefine a constant instead of duplicating this literal "SloupcovÃ½ graf" 3 times.(×‚®ùÿÿÿÿ8’™õúğ1J$5e45764b-2d65-490f-8ab2-e189acd70622
+‘python:S1192·"KDefine a constant instead of duplicating this literal "Save Graph" 3 times.(ªœ„ 8‰¶Úúğ1J$294eb82c-f91a-4eed-a26f-e4990994677d
+zpython:S1481&"0Replace the unused local variable "cx" with "_".(¾¯ÒÌÿÿÿÿÿ8Š¶Úúğ1J$7f2c0542-dd65-4810-971e-79dfc71ffa96
+python:S6734o"5Do not use "inplace=True" when modifying a dataframe.(÷ˆ¬øøÿÿÿÿ8Š¶Úúğ1J$755cfe00-c1a5-4f95-9a6f-28943b5fbb58
+špython:S3776å"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ç€ã8Š¶Úúğ1J$31a7bad2-90b6-47b2-a42b-9840a387dbe0
+ipython:S125‡"Remove this commented out code.(ú¼Â©şÿÿÿÿ8‹¶Úúğ1J$daf9b64a-0916-4862-96ec-2390aa726ccc
+ipython:S125"Remove this commented out code.(ÿ©å“úÿÿÿÿ8‹¶Úúğ1J$1bc98ee6-796e-4f74-bbea-557d9495bf46
+dpython:S125§"Remove this commented out code.(çêÚû8‹¶Úúğ1J$77affa44-a769-494f-b1b2-89f980bf92ca
+zpython:S1135ø"4Complete the task associated to this "TODO" comment.(şŠåÖ8‹¶Úúğ1J$a7efabef-8466-4fc0-b4c3-09b572489a95

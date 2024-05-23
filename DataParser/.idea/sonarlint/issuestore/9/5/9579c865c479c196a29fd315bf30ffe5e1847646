@@ -1,0 +1,10 @@
+
+dpython:S1192*"LDefine a constant instead of duplicating this literal 'PnB procesy' 4 times.(‘›¤Å
+œpython:S1192*"ƒDefine a constant instead of duplicating this literal "Pruzkum_data/ZlÃ­nskÃ½/1_ZLK_Prispevek na bydleni_mereni casu.xlsx" 4 times.(‘›¤Å
+fpython:S1192$"NDefine a constant instead of duplicating this literal "Pruzkum_data/" 4 times.(°°ûã
+lpython:S3776\"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(»„±Ä
+bpython:S1226\"JIntroduce a new variable or use its initial value before reassigning 'df'.(»„±Ä
+Upython:S5754‰"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Upython:S5754ž"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+hpython:S1226¡"JIntroduce a new variable or use its initial value before reassigning 'df'.(õåÏ°ûÿÿÿÿ
+mpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÕÇÀ
