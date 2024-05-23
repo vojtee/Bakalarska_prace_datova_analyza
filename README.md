@@ -1,0 +1,1 @@
+# Bakalarska_prace_datova_analyza
