@@ -15,6 +15,19 @@ V hlavní složce aplikace najdete soubor `DataStart.exe`. Jedná se o spustitel
 
 Aplikace by měla být spustitelná pouhým stažením a dvojklikem na ni. V aplikaci je na úvodní stránce krátký popis a případné vysvětlení, co a jak dělat.
 
+
+V repozitáři je také k dispozici zdrojový kód aplikace. Pro instalaci potřebných závislostí použijte soubor `requirements.txt`.
+
+### Postup instalace závislostí:
+1. Ujistěte se, že máte nainstalovaný Python 3.12.
+2. Otevřete příkazovou řádku nebo terminál.
+3. Přejděte do složky, kde máte uložený soubor `requirements.txt`.
+4. Spusťte následující příkaz:
+
+   ```sh
+   pip install -r requirements.txt
+	```
+
 ## Kontakt
 
 V případě nejasností, dotazů nebo nefunkční verze mě neváhejte kontaktovat na emailu [horejvo1@fel.cvut.cz](mailto:horejvo1@fel.cvut.cz).
